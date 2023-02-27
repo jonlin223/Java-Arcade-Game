@@ -1,3 +1,6 @@
+# Introduction
+This project was originally hosted on Gitlab. It was completed for COMP2511 Object Oriented Design and Programming. The team members were Jonathan Lin and Jason Lin.
+
 # Project
 
 ## Aims
